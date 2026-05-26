@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "f254f0e6499dd6bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ed261ad0d21709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5282b1da446f568e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "translations/교회-인공-지능-사용-원리-발표.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "교회-인공-지능-사용-원리-발표"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfaac7e045b41dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "64f00ebd085350db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848073eb6c91efa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24259177df2429ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a1243d804e76470",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea4dd2d866cf8be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0197a9e77eeb82b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5f5ae3039e419b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "translations/교회-인공-지능-사용-원리-발표.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 교회-인공-지능-사용-원리-발표"
+            }
+          },
+          {
+            "id": "ad880f0636aabb44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "translations/교회-인공-지능-사용-원리-발표.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 교회-인공-지능-사용-원리-발표"
+            }
+          },
+          {
+            "id": "4067a6c3d17c9b4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04b3aa6f1e8ef6ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "translations/교회-인공-지능-사용-원리-발표.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 교회-인공-지능-사용-원리-발표"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5282b1da446f568e",
+  "lastOpenFiles": [
+    "translations/하나님의 오묘한 일을 깨달으라 - 데이비드 에이 베드나 장로.md",
+    "translations/지혜에 기울인 귀, 명철에 둔 마음.md",
+    "translations/주님의 방식으로 우리의 잠재력에 이르기 (토니 알 마르티네스).md",
+    "translations/인공지능 시대의 신앙 존중 도덕적 나침반 - 한국어 번역.md",
+    "translations/인공지능 시대의 신앙 윤리 인간존엄성 - 게릿 공 장로.md",
+    "translations/인공지능 시대의 깊이 있는 학습 (번역).md",
+    "translations/우리 자신의 가장 멋진 이야기 - 게릿 더블유 공 장로.md",
+    "translations/불편한 메시야 - 한국어 번역.md",
+    "translations/모든 그림자를 몰아내심 - 제프리 알 홀런드 장로.md",
+    "translations/관찰 추리 신앙 그리고 계시 - 데일 지 렌런드 장로.md",
+    "translations/BYU 150주년 영적 모임 말씀 - 한국어 번역.md"
+  ]
+}
