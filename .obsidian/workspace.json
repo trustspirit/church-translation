@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65ed261ad0d21709",
+        "id": "a60f33dfb877389c",
         "type": "tabs",
         "children": [
           {
-            "id": "5282b1da446f568e",
+            "id": "8fbf654ca4b6f77f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "translations/교회-인공-지능-사용-원리-발표.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "교회-인공-지능-사용-원리-발표"
+              "title": "New tab"
             }
           }
         ]
@@ -166,21 +162,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5282b1da446f568e",
+  "active": "8fbf654ca4b6f77f",
   "lastOpenFiles": [
-    "translations/하나님의 오묘한 일을 깨달으라 - 데이비드 에이 베드나 장로.md",
-    "translations/지혜에 기울인 귀, 명철에 둔 마음.md",
-    "translations/주님의 방식으로 우리의 잠재력에 이르기 (토니 알 마르티네스).md",
-    "translations/인공지능 시대의 신앙 존중 도덕적 나침반 - 한국어 번역.md",
     "translations/인공지능 시대의 신앙 윤리 인간존엄성 - 게릿 공 장로.md",
     "translations/인공지능 시대의 깊이 있는 학습 (번역).md",
     "translations/우리 자신의 가장 멋진 이야기 - 게릿 더블유 공 장로.md",
     "translations/불편한 메시야 - 한국어 번역.md",
+    "translations/BYU 150주년 영적 모임 말씀 - 한국어 번역.md",
     "translations/모든 그림자를 몰아내심 - 제프리 알 홀런드 장로.md",
-    "translations/관찰 추리 신앙 그리고 계시 - 데일 지 렌런드 장로.md",
-    "translations/BYU 150주년 영적 모임 말씀 - 한국어 번역.md"
+    "translations/교회-인공-지능-사용-원리-발표.md",
+    "translations/하나님의 오묘한 일을 깨달으라 - 데이비드 에이 베드나 장로.md",
+    "translations/지혜에 기울인 귀, 명철에 둔 마음.md",
+    "translations/주님의 방식으로 우리의 잠재력에 이르기 (토니 알 마르티네스).md",
+    "translations/인공지능 시대의 신앙 존중 도덕적 나침반 - 한국어 번역.md",
+    "translations/관찰 추리 신앙 그리고 계시 - 데일 지 렌런드 장로.md"
   ]
 }
