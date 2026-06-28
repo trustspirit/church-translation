@@ -1,0 +1,166 @@
+- generic [active] [ref=e1]:
+  - main [ref=e7]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - button "목차" [ref=e13] [cursor=pointer]
+        - generic [ref=e15] [cursor=pointer]: 은혜(恩惠, GRACE)
+        - generic [ref=e16]:
+          - button "학습 세트" [ref=e17] [cursor=pointer]
+          - button "책갈피" [ref=e18] [cursor=pointer]
+          - button "관련 자료" [ref=e19] [cursor=pointer]
+          - button "선택 사항" [ref=e20] [cursor=pointer]
+      - link "이전" [ref=e21] [cursor=pointer]:
+        - /url: /study/scriptures/gs/gifts-of-the-spirit
+      - link "다음" [ref=e22] [cursor=pointer]:
+        - /url: /study/scriptures/gs/pornography
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - button "닫기" [ref=e28] [cursor=pointer]
+          - separator [ref=e29]
+          - button "표시" [disabled] [ref=e32]
+          - separator [ref=e33]
+          - button "복사" [disabled] [ref=e34]
+          - button "공유" [ref=e35] [cursor=pointer]
+        - article [ref=e37]:
+          - generic [ref=e38]:
+            - heading "은혜(恩惠, GRACE)" [level=1] [ref=e40]:
+              - strong [ref=e41]: 은혜(恩惠, GRACE)
+            - generic [ref=e42]:
+              - navigation [ref=e43]:
+                - list [ref=e44]:
+                  - listitem [ref=e45]:
+                    - paragraph [ref=e46]:
+                      - emphasis [ref=e47]: 또한
+                      - link "구원" [ref=e48] [cursor=pointer]:
+                        - /url: /study/scriptures/gs/salvation?lang=kor
+                      - text: ;
+                      - link "속죄하다, 속죄" [ref=e49] [cursor=pointer]:
+                        - /url: /study/scriptures/gs/atone-atonement?lang=kor
+                      - text: ;
+                      - link "예수 그리스도" [ref=e50] [cursor=pointer]:
+                        - /url: /study/scriptures/gs/jesus-christ?lang=kor
+                      - text: ;
+                      - link "자비로운, 자비" [ref=e51] [cursor=pointer]:
+                        - /url: /study/scriptures/gs/merciful-mercy?lang=kor
+                      - emphasis [ref=e52]: 참조
+              - paragraph [ref=e53]: 남자와 여자가 이 생에서 축복을 얻고 또 그들이 신앙을 행사하고, 회개하고 또 계명을 지키기 위해 그들의 최선의 노력을 행한 이후에 영생 및 승영을 얻는 것을 가능하게 하는 하나님에게서 오는 힘. 그러한 신성한 도움 또는 힘은 하나님의 자비와 사랑을 통하여 주어진다. 필멸의 모든 사람은 아담의 타락과 또한 사람의 약함 때문에 신성한 은혜를 필요로 한다.
+              - navigation [ref=e54]:
+                - list [ref=e55]:
+                  - listitem [ref=e56]:
+                    - paragraph [ref=e57]:
+                      - text: 은혜와 진리는 예수 그리스도로 말미암아 온 것이라,
+                      - link "요 1:17" [ref=e58] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/john/1?lang=kor&id=p17#p17
+                      - text: .
+                  - listitem [ref=e59]:
+                    - paragraph [ref=e60]:
+                      - text: 우리는 그리스도의 은혜로 구원받는 줄을,
+                      - link "행 15:11" [ref=e61] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/acts/15?lang=kor&id=p11#p11
+                      - text: (
+                      - link "롬 3:23~24" [ref=e62] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/rom/3?lang=kor&id=p23-p24#p23
+                      - text: ;
+                      - link "교성 138:14" [ref=e63] [cursor=pointer]:
+                        - /url: /study/scriptures/dc-testament/dc/138?lang=kor&id=p14#p14
+                      - text: ).
+                  - listitem [ref=e64]:
+                    - paragraph [ref=e65]:
+                      - text: 우리가 믿음으로 그의 은혜에 들어감을 얻었으며,
+                      - link "롬 5:2" [ref=e66] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/rom/5?lang=kor&id=p2#p2
+                      - text: .
+                  - listitem [ref=e67]:
+                    - paragraph [ref=e68]:
+                      - text: 너희는 그 은혜에 의하여 믿음으로 말미암아 구원을 받았으니,
+                      - link "엡 2:8" [ref=e69] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/eph/2?lang=kor&id=p8#p8
+                      - text: .
+                  - listitem [ref=e70]:
+                    - paragraph [ref=e71]:
+                      - text: 하나님의 은혜가 구원을 가져다 줌,
+                      - link "딛 2:11" [ref=e72] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/titus/2?lang=kor&id=p11#p11
+                      - text: .
+                  - listitem [ref=e73]:
+                    - paragraph [ref=e74]:
+                      - text: 은혜의 보좌 앞에 담대히 나아갈 것이니라,
+                      - link "히 4:16" [ref=e75] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/heb/4?lang=kor&id=p16#p16
+                      - text: .
+                  - listitem [ref=e76]:
+                    - paragraph [ref=e77]:
+                      - text: 하나님은 겸손한 자에게 은혜를 주시느니라,
+                      - link "벧전 5:5" [ref=e78] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/1-pet/5?lang=kor&id=p5#p5
+                      - text: .
+              - navigation [ref=e79]:
+                - list [ref=e80]:
+                  - listitem [ref=e81]:
+                    - paragraph [ref=e82]:
+                      - text: 어느 누구도 거룩하신 메시야의 공덕과 자비와 은혜로 말미암지 않고서는, 하나님의 면전에 거할 수 없음,
+                      - link "니후 2:8" [ref=e83] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/2-ne/2?lang=kor&id=p8#p8
+                      - text: .
+                  - listitem [ref=e84]:
+                    - paragraph [ref=e85]:
+                      - text: 사람이 구원받는 것이 오직 하나님의 은혜 안에서와 하나님의 은혜를 통하여서임,
+                      - link "니후 10:24" [ref=e86] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/2-ne/10?lang=kor&id=p24#p24
+                      - text: .
+                  - listitem [ref=e87]:
+                    - paragraph [ref=e88]:
+                      - text: 우리가 할 수 있는 모든 것 후에 은혜에 의해 구원받음,
+                      - link "니후 25:23" [ref=e89] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/2-ne/25?lang=kor&id=p23#p23
+                      - text: .
+                  - listitem [ref=e90]:
+                    - paragraph [ref=e91]:
+                      - text: 우리에게 이러한 일을 행할 능력이 있는 것은 은혜에 의한 것임,
+                      - link "야곱 4:7" [ref=e92] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/jacob/4?lang=kor&id=p7#p7
+                      - text: .
+                  - listitem [ref=e93]:
+                    - paragraph [ref=e94]:
+                      - text: 사람들이 회복되어 자기의 행위대로 은혜로 말미암아 은혜에 이르게 하기 위함임,
+                      - link "힐 12:24" [ref=e95] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/hel/12?lang=kor&id=p24#p24
+                      - text: .
+                  - listitem [ref=e96]:
+                    - paragraph [ref=e97]:
+                      - text: 나의 은혜는 온유한 자와 스스로 겸손하여진 모든 자에게는 족하니,
+                      - link "이더 12:26~27" [ref=e98] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/ether/12?lang=kor&id=p26-p27#p26
+                      - text: .
+                  - listitem [ref=e99]:
+                    - paragraph [ref=e100]:
+                      - text: 모로나이가 이방인들에게 은혜가 주어져 그들로 사랑을 갖게 해 주시기를 기도했음,
+                      - link "이더 12:36, 41" [ref=e101] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/ether/12?lang=kor&id=p36,41#p36
+                      - text: .
+                  - listitem [ref=e102]:
+                    - paragraph [ref=e103]:
+                      - text: 하나님의 은혜로 너희가 그리스도 안에서 온전하게 될지라,
+                      - link "모로 10:32~33" [ref=e104] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/moro/10?lang=kor&id=p32-p33#p32
+                      - text: .
+              - navigation [ref=e105]:
+                - list [ref=e106]:
+                  - listitem [ref=e107]:
+                    - paragraph [ref=e108]:
+                      - text: 예수는 은혜에 은혜를 받으시더라,
+                      - link "교성 93:12~13, 20" [ref=e109] [cursor=pointer]:
+                        - /url: /study/scriptures/dc-testament/dc/93?lang=kor&id=p12-p13,20#p12
+                      - text: .
+      - complementary [ref=e110]
+  - generic [ref=e115]:
+    - generic [ref=e116]:
+      - text: We value your privacy. We use cookies or similar technologies on this website to provide a user-friendly experience, measure site performance, and present relevant personalized advertisements.
+      - text: By clicking "Accept" you consent to the use of cookies as described in our
+      - link "Privacy Notice" [ref=e117] [cursor=pointer]:
+        - /url: https://www.churchofjesuschrist.org/legal/privacy-notice?lang=eng&country=go
+      - text: ", or you can view your options by selecting \"Manage Settings\"."
+    - generic [ref=e118]:
+      - button "Accept" [ref=e119] [cursor=pointer]
+      - button "Decline All" [ref=e120] [cursor=pointer]
+      - button "Manage Settings" [ref=e121] [cursor=pointer]

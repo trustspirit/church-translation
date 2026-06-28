@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a60f33dfb877389c",
+        "id": "ca3ecbc92e47fae7",
         "type": "tabs",
         "children": [
           {
-            "id": "8fbf654ca4b6f77f",
+            "id": "a41758fc0d1117af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "translations/하늘은-열려-있습니다-개인-계시를-위한-4가지-비결-제럴드-코세-장로.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "하늘은-열려-있습니다-개인-계시를-위한-4가지-비결-제럴드-코세-장로"
+              "title": "New tab"
             }
           }
         ]
@@ -172,34 +168,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8fbf654ca4b6f77f",
+  "active": "a41758fc0d1117af",
   "lastOpenFiles": [
+    "translations/일어나라-2026-여성-대회-베드나.md",
+    "translations/100퍼센트-책임을-지십시오-린-지-로빈스.md",
+    "translations/주님의 방식으로 우리의 잠재력에 이르기 (토니 알 마르티네스).md",
+    "translations/빛의-섬광-스티븐-제이-런드.md",
+    "translations/내가-그대를-어떻게-사랑하느냐고요-사랑과-연애.md",
+    "translations/금-조각들-패트릭-키아론-장로.md",
+    "translations/하나님의-사랑과-율법.md",
+    "translations/관찰 추리 신앙 그리고 계시 - 데일 지 렌런드 장로.md",
+    "translations/BYU 150주년 영적 모임 말씀 - 한국어 번역.md",
+    "translations/유혹을-피하십시오.md",
+    "translations/하나님은-정원사이십니다.md",
+    "translations/하나님의-낮추어-오심.md",
+    "translations/하나님의 오묘한 일을 깨달으라 - 데이비드 에이 베드나 장로.md",
+    "translations/우리의-정체성과-운명.md",
+    "translations/주님의-집에서-예수-그리스도를-만나다.md",
+    "translations/우리에게는-엔다우먼트가-필요합니다.md",
+    "translations/하늘은-열려-있습니다-개인-계시를-위한-4가지-비결-제럴드-코세-장로.md",
     "translations/지혜에 기울인 귀, 명철에 둔 마음.md",
     "translations/주의-힘을-입어-데이비드-에이-베드나.md",
     "translations/주님이-우리와-함께-계시니-그들을-두려워하지-말라-제럴드-코세-장로.md",
-    "translations/주님의 방식으로 우리의 잠재력에 이르기 (토니 알 마르티네스).md",
     "translations/그러므로-너희-담대함을-버리지-말라-제프리-알-홀런드-장로.md",
     "translations/계시의-선물-존-앨런-맥큔.md",
-    "translations/관찰 추리 신앙 그리고 계시 - 데일 지 렌런드 장로.md",
-    "translations/100퍼센트-책임을-지십시오-린-지-로빈스.md",
     "translations/먼저-하나님의-나라를-구하라.md",
-    "translations/금-조각들-패트릭-키아론-장로.md",
-    "translations/빛의-섬광-스티븐-제이-런드.md",
     "translations/새-주일-일정-요약.md",
     "translations/신앙-존엄성-인간번영-인공지능-시대에-하나님의-음성-게릿-더블유-공-장로.md",
     "translations/여러분은-주님의-일에-없어서는-안-될-존재입니다.md",
-    "translations/하늘은-열려-있습니다-개인-계시를-위한-4가지-비결-제럴드-코세-장로.md",
-    "translations/하나님의 오묘한 일을 깨달으라 - 데이비드 에이 베드나 장로.md",
-    "translations/평생-개종-데일-지-렌런드-장로.md",
-    "translations/교회-인공-지능-사용-원리-발표.md",
-    "translations/빛을-지키는-자들-울리세스-소아레스-장로.md",
-    "translations/100퍼센트-책임을-지십시오-린-지-로빈스.md.tmp.6655.98ecd9ab26fc",
-    "translations/영혼-상징-그리고-성찬에-관하여-제프리-알-홀런드.md",
-    "translations/주님의-힘으로-데이비드-에이-베드나.md",
-    "Untitled.md",
-    "translations/인공지능 시대의 신앙 윤리 인간존엄성 - 게릿 공 장로.md",
-    "translations/인공지능 시대의 깊이 있는 학습 (번역).md",
-    "translations/우리 자신의 가장 멋진 이야기 - 게릿 더블유 공 장로.md",
-    "translations/불편한 메시야 - 한국어 번역.md"
+    "translations/100퍼센트-책임을-지십시오-린-지-로빈스.md.tmp.6655.98ecd9ab26fc"
   ]
 }

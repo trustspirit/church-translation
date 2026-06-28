@@ -1,0 +1,123 @@
+- generic [active] [ref=e1]:
+  - main [ref=e7]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - button "목차" [ref=e13] [cursor=pointer]
+        - generic [ref=e15] [cursor=pointer]: 살펴보다(WATCH), 파수(把守)꾼(WATCHMEN)
+        - generic [ref=e16]:
+          - button "학습 세트" [ref=e17] [cursor=pointer]
+          - button "책갈피" [ref=e18] [cursor=pointer]
+          - button "관련 자료" [ref=e19] [cursor=pointer]
+          - button "선택 사항" [ref=e20] [cursor=pointer]
+      - link "이전" [ref=e21] [cursor=pointer]:
+        - /url: /study/scriptures/gs/murder
+      - link "다음" [ref=e22] [cursor=pointer]:
+        - /url: /study/scriptures/gs/samson
+      - generic [ref=e25]:
+        - generic [ref=e27]:
+          - button "닫기" [ref=e28] [cursor=pointer]
+          - separator [ref=e29]
+          - button "표시" [disabled] [ref=e32]
+          - separator [ref=e33]
+          - button "복사" [disabled] [ref=e34]
+          - button "공유" [ref=e35] [cursor=pointer]
+        - article [ref=e37]:
+          - generic [ref=e38]:
+            - heading "살펴보다(WATCH), 파수(把守)꾼(WATCHMEN)" [level=1] [ref=e40]:
+              - strong [ref=e41]: 살펴보다(WATCH), 파수(把守)꾼(WATCHMEN)
+            - generic [ref=e42]:
+              - navigation [ref=e43]:
+                - list [ref=e44]:
+                  - listitem [ref=e45]:
+                    - paragraph [ref=e46]:
+                      - emphasis [ref=e47]: 또한
+                      - link "경고하다, 경고" [ref=e48] [cursor=pointer]:
+                        - /url: /study/scriptures/gs/warn-warning?lang=kor
+                      - emphasis [ref=e49]: 참조
+              - paragraph [ref=e50]: 경계하고 있는 것, 지키는 것. 살펴보고 순종하는 사람은 준비되고 또 예비된 자이다. 파수꾼은 주의 대표자에 의해 다른 사람들의 복지를 위하여 특정한 책임을 지도록 부름 받은 지도자들이다. 지도자로 부름 받은 이들은 세상의 나머지에 대해 파수꾼이 되라는 특별한 책임을 또한 진다.
+              - navigation [ref=e51]:
+                - list [ref=e52]:
+                  - listitem [ref=e53]:
+                    - paragraph [ref=e54]:
+                      - text: 내가 너를 파수꾼으로 세웠으니,
+                      - link "겔 3:17~21" [ref=e55] [cursor=pointer]:
+                        - /url: /study/scriptures/ot/ezek/3?lang=kor&id=p17-p21#p17
+                      - text: .
+                  - listitem [ref=e56]:
+                    - paragraph [ref=e57]:
+                      - text: 경고의 음성을 높이는 파수꾼들은 그들의 생명을 구원함,
+                      - link "겔 33:7~9" [ref=e58] [cursor=pointer]:
+                        - /url: /study/scriptures/ot/ezek/33?lang=kor&id=p7-p9#p7
+                      - text: .
+              - navigation [ref=e59]:
+                - list [ref=e60]:
+                  - listitem [ref=e61]:
+                    - paragraph [ref=e62]:
+                      - text: 그러므로 깨어 있으라 너희는 너희 주가 임할 시각을 너희가 알지 못함이니라,
+                      - link "마 24:42~43" [ref=e63] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/matt/24?lang=kor&id=p42-p43#p42
+                      - text: (
+                      - link "마 25:13" [ref=e64] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/matt/25?lang=kor&id=p13#p13
+                      - text: ;
+                      - link "막 13:35~37" [ref=e65] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/mark/13?lang=kor&id=p35-p37#p35
+                      - text: ;
+                      - link "교성 133:10~11" [ref=e66] [cursor=pointer]:
+                        - /url: /study/scriptures/dc-testament/dc/133?lang=kor&id=p10-p11#p10
+                      - text: ).
+                  - listitem [ref=e67]:
+                    - paragraph [ref=e68]:
+                      - text: 너희는 시험에 들지 않게 깨어 기도하라,
+                      - link "마 26:41" [ref=e69] [cursor=pointer]:
+                        - /url: /study/scriptures/nt/matt/26?lang=kor&id=p41#p41
+                      - text: (
+                      - link "3니 18:15, 18" [ref=e70] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/3-ne/18?lang=kor&id=p15,18#p15
+                      - text: ).
+              - navigation [ref=e71]:
+                - list [ref=e72]:
+                  - listitem [ref=e73]:
+                    - paragraph [ref=e74]:
+                      - text: 만일 너희가 너희 자신과, 너희의 생각과, 너희의 말과, 너희의 행실을 살피지 아니하면, 너희가 반드시 멸망하리라,
+                      - link "모사 4:30" [ref=e75] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/mosiah/4?lang=kor&id=p30#p30
+                      - text: .
+                  - listitem [ref=e76]:
+                    - paragraph [ref=e77]:
+                      - text: 앨마가 교회를 감리하고 감독할 제사와 장로를 성임하였더라,
+                      - link "앨 6:1" [ref=e78] [cursor=pointer]:
+                        - /url: /study/scriptures/bofm/alma/6?lang=kor&id=p1#p1
+                      - text: .
+              - navigation [ref=e79]:
+                - list [ref=e80]:
+                  - listitem [ref=e81]:
+                    - paragraph [ref=e82]:
+                      - text: 깨어서 구주를 기다리지 아니하는 자는 끊어버림을 당하리라,
+                      - link "교성 45:44" [ref=e83] [cursor=pointer]:
+                        - /url: /study/scriptures/dc-testament/dc/45?lang=kor&id=p44#p44
+                      - text: .
+                  - listitem [ref=e84]:
+                    - paragraph [ref=e85]:
+                      - text: 감독과 다른 사람들이 교회를 보살피도록 하나님에게서 부름을 받고 성임됨,
+                      - link "교성 46:27" [ref=e86] [cursor=pointer]:
+                        - /url: /study/scriptures/dc-testament/dc/46?lang=kor&id=p27#p27
+                      - text: .
+                  - listitem [ref=e87]:
+                    - paragraph [ref=e88]:
+                      - text: 주께서 포도원을 살펴볼 파수꾼을 두심,
+                      - link "교성 101:44~58" [ref=e89] [cursor=pointer]:
+                        - /url: /study/scriptures/dc-testament/dc/101?lang=kor&id=p44-p58#p44
+                      - text: .
+      - complementary [ref=e90]
+  - generic [ref=e95]:
+    - generic [ref=e96]:
+      - text: We value your privacy. We use cookies or similar technologies on this website to provide a user-friendly experience, measure site performance, and present relevant personalized advertisements.
+      - text: By clicking "Accept" you consent to the use of cookies as described in our
+      - link "Privacy Notice" [ref=e97] [cursor=pointer]:
+        - /url: https://www.churchofjesuschrist.org/legal/privacy-notice?lang=eng&country=go
+      - text: ", or you can view your options by selecting \"Manage Settings\"."
+    - generic [ref=e98]:
+      - button "Accept" [ref=e99] [cursor=pointer]
+      - button "Decline All" [ref=e100] [cursor=pointer]
+      - button "Manage Settings" [ref=e101] [cursor=pointer]

@@ -1,0 +1,9 @@
+[    1013ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.churchofjesuschrist.org/study/manual/that-ye-may-believe/part-1?lang=kor:0
+[    1400ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://foundry.churchofjesuschrist.org/Foundry/v1/Ensign:Serif:Italic:700@ko/css:0
+[    1400ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://foundry.churchofjesuschrist.org/Foundry/v1/Ensign:Serif:Italic:400@ko/css:0
+[    1400ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://foundry.churchofjesuschrist.org/Foundry/v1/Ensign:Sans:600@ko/css:0
+[    1400ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://foundry.churchofjesuschrist.org/Foundry/v1/Ensign:Sans:Italic:600@ko/css:0
+[    1424ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://foundry.churchofjesuschrist.org/Foundry/v1/Ensign:Sans:Italic:300@ko/css:0
+[    1446ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://foundry.churchofjesuschrist.org/Foundry/v1/Ensign:Sans:Italic:700@ko/css:0
+[    1508ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://foundry.churchofjesuschrist.org/Foundry/v1/Ensign:Sans:Italic:400@ko/css:0
+[    2626ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.churchofjesuschrist.org/services/banner/v1/published/kor/data.json:0
