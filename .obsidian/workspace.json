@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca3ecbc92e47fae7",
+        "id": "9570ba6b86642596",
         "type": "tabs",
         "children": [
           {
-            "id": "a41758fc0d1117af",
+            "id": "d85bfe27050ce440",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,7 +168,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a41758fc0d1117af",
+  "active": "d85bfe27050ce440",
   "lastOpenFiles": [
     "translations/일어나라-2026-여성-대회-베드나.md",
     "translations/100퍼센트-책임을-지십시오-린-지-로빈스.md",
