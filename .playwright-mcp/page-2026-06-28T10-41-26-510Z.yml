@@ -1,6 +1,0 @@
-- main [ref=e7]:
-  - generic [ref=e9]:
-    - generic [ref=e10]: "Error code: 404"
-    - heading "We're sorry, we could not find the page you were looking for." [level=2] [ref=e11]
-    - link "Return to Gospel Library" [ref=e12] [cursor=pointer]:
-      - /url: /study?lang=kor
