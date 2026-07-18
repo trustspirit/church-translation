@@ -1,4 +1,4 @@
-# CLAUDE.md — 교회 번역 프로젝트
+# AGENTS.md — 교회 번역 프로젝트
 
 이 프로젝트는 예수 그리스도 후기 성도 교회 관련 영어 자료를 자연스럽고 정확한
 한국어로 번역하는 작업이다. 번역 역할·원칙·문체·절차는 프로젝트 지침을 따른다.
@@ -188,6 +188,11 @@
   `scripts/extract-youtube.sh`로 받아 대조하면 누락 문장을 복원할 수 있다.
   (BYUI speeches 페이지에서 "it simply as, 'Do not be dismayed.' Please hear
   that warning voice." 한 구절이 통째로 빠져 "Isaiah said"만 남았던 사례.)
+- **BYU Speeches에 본문이 없다고 표시되어도 음원과 정식 재게재 원고를 함께 찾는다.**
+  페이지 HTML의 `AudioObject` 또는 `contentUrl`에서 mp3를 받고, 말씀 제목을 검색해
+  저자 선집·교회 계열 잡지 등에 실린 편집 원고를 찾는다. 편집 원고를 본문 뼈대로
+  쓰되 음원 전사와 대조하여 도입·구두 예화·맺음말의 누락을 보완한다. 두 자료가
+  서로 다른 대목은 음원과 후대 공식 역사 자료로 재검증한다.
 - **BYU·종교 교육원 영적 모임(devotional·speeches)은 본문이 다른 사이트로
   연결된다.** `byui.edu/speeches/...`, `speeches.byu.edu/...` 페이지는 제목·
   화자·날짜만 있고 본문은 "Visit ... to read"로 churchofjesuschrist.org
@@ -204,6 +209,13 @@
   게재본은 YouTube 자동 자막보다 훨씬 정확하고(구두체 오류·잘못 들은 단어 없음),
   각주(성구·서적 인용)까지 포함돼 있어 YouTube 링크로 받은 말씀이라도 설명란에
   BYU Speeches 링크가 있으면 그쪽을 원문으로 우선한다.
+- **BYU Speeches가 오디오만 제공하는 경우에는 JSON-LD를 먼저 확인한다.**
+  REST API의 `content.rendered`가 비어 있고 페이지가 "The text for this speech
+  is unavailable"이라고 명시하면, HTML의 JSON-LD `audio.contentUrl`에서 MP3를
+  받아 전사한다. `mentions`·`teaches`에는 인명·성구·주제 단서가 있어 난청
+  구간과 인용 출처를 찾는 데 유용하다. 오래된 오디오는 먼저 Whisper small로
+  전체 타임스탬프를 만든 뒤, 불분명한 구간만 medium/large-v3로 다시 전사하면
+  정확도와 시간을 함께 확보할 수 있다. (매드슨 1965년 BYU 영적 모임 사례.)
 - **오래된 BYU 영적 모임 말씀에서 "House of Glory" 류의 표현이 나오면 D&C
   88:119 / 109:8을 확인한다.** 두 구절은 문구가 동일하며 "영광의 집" 등 성전의
   일곱 가지 명칭을 담고 있어, 관련 말씀 제목·본문 표현의 공식 번역 근거가 된다.
